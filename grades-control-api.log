@@ -1,0 +1,340 @@
+2020-06-09T16:03:28.995Z [grades-control-api] info: started server
+2020-06-09T16:07:58.045Z [grades-control-api] info: started server
+2020-06-09T16:09:25.368Z [grades-control-api] info: started server
+2020-06-09T16:10:19.293Z [grades-control-api] info: started server
+2020-06-09T16:10:33.314Z [grades-control-api] info: started server
+2020-06-09T16:10:35.758Z [grades-control-api] info: started server
+2020-06-09T16:12:56.008Z [grades-control-api] info: GET /grades
+2020-06-09T16:16:25.116Z [grades-control-api] info: started server
+2020-06-09T16:17:44.512Z [grades-control-api] info: started server
+2020-06-09T16:17:51.438Z [grades-control-api] info: started server
+2020-06-09T16:18:24.652Z [grades-control-api] info: started server
+2020-06-09T16:21:44.364Z [grades-control-api] info: started server
+2020-06-09T16:21:53.012Z [grades-control-api] info: Tue Jun 09 2020 13:21:53 GMT-0300 (GMT-03:00)
+2020-06-09T16:22:30.318Z [grades-control-api] info: started server
+2020-06-09T16:22:32.579Z [grades-control-api] info: started server
+2020-06-09T16:22:33.021Z [grades-control-api] info: Tue Jun 09 2020
+2020-06-09T16:23:01.521Z [grades-control-api] info: started server
+2020-06-09T16:23:04.483Z [grades-control-api] info: Tue, 09 Jun 2020 16:23:04 GMT
+2020-06-09T16:24:15.087Z [grades-control-api] info: started server
+2020-06-09T16:26:39.643Z [grades-control-api] info: started server
+2020-06-09T16:26:43.148Z [grades-control-api] info: started server
+2020-06-09T16:27:45.462Z [grades-control-api] info: started server
+2020-06-09T16:28:34.853Z [grades-control-api] info: started server
+2020-06-09T16:28:36.889Z [grades-control-api] info: Tue Jun 09 2020 13:28:36 GMT-0300 (GMT-03:00)
+2020-06-09T16:32:42.035Z [grades-control-api] info: started server
+2020-06-09T16:32:44.118Z [grades-control-api] info: 2020-06-09T16:32:44.118Z
+2020-06-09T16:32:57.105Z [grades-control-api] info: started server
+2020-06-09T16:34:33.357Z [grades-control-api] info: started server
+2020-06-09T16:34:34.985Z [grades-control-api] info: started server
+2020-06-09T16:34:42.091Z [grades-control-api] info: started server
+2020-06-09T16:36:02.995Z [grades-control-api] info: started server
+2020-06-09T16:36:05.447Z [grades-control-api] info: [object Object]
+2020-06-09T16:36:38.749Z [grades-control-api] info: started server
+2020-06-09T16:37:41.090Z [grades-control-api] info: started server
+2020-06-09T16:37:48.744Z [grades-control-api] info: started server
+2020-06-09T16:37:52.612Z [grades-control-api] info: started server
+2020-06-09T16:38:06.161Z [grades-control-api] info: started server
+2020-06-09T16:38:29.471Z [grades-control-api] info: [object Object]
+2020-06-09T16:39:47.079Z [grades-control-api] info: started server
+2020-06-09T16:40:00.018Z [grades-control-api] info: started server
+2020-06-09T16:40:01.275Z [grades-control-api] info: started server
+2020-06-09T16:40:23.122Z [grades-control-api] info: started server
+2020-06-09T16:40:27.378Z [grades-control-api] info: started server
+2020-06-09T16:41:26.605Z [grades-control-api] info: started server
+2020-06-09T16:43:01.229Z [grades-control-api] info: started server
+2020-06-09T16:43:57.472Z [grades-control-api] info: started server
+2020-06-09T16:44:03.677Z [grades-control-api] info: started server
+2020-06-09T16:44:33.573Z [grades-control-api] info: started server
+2020-06-09T16:44:34.843Z [grades-control-api] info: started server
+2020-06-09T16:45:10.608Z [grades-control-api] info: started server
+2020-06-09T16:45:25.367Z [grades-control-api] info: started server
+2020-06-09T16:45:53.248Z [grades-control-api] info: started server
+2020-06-09T16:45:57.071Z [grades-control-api] info: started server
+2020-06-09T16:46:00.301Z [grades-control-api] info: GET /grades
+2020-06-09T16:46:00.302Z [grades-control-api] info: GET /grades - reading database started
+2020-06-09T16:46:00.304Z [grades-control-api] info: GET /grades - reading database finished
+2020-06-09T16:46:18.159Z [grades-control-api] info: started server
+2020-06-09T16:47:09.900Z [grades-control-api] info: started server
+2020-06-09T16:47:15.643Z [grades-control-api] info: GET /grades
+2020-06-09T16:47:15.644Z [grades-control-api] info: GET /grades - reading database started
+2020-06-09T16:47:15.648Z [grades-control-api] info: GET /grades - reading database finished
+2020-06-09T16:47:15.648Z [grades-control-api] info: GET /grades successful
+2020-06-09T16:47:28.838Z [grades-control-api] info: started server
+2020-06-09T16:47:31.172Z [grades-control-api] info: started server
+2020-06-09T16:47:32.758Z [grades-control-api] info: started server
+2020-06-09T16:47:37.287Z [grades-control-api] info: started server
+2020-06-09T16:56:39.462Z [grades-control-api] info: started server
+2020-06-09T16:56:50.273Z [grades-control-api] info: started server
+2020-06-09T16:57:28.055Z [grades-control-api] info: started server
+2020-06-09T16:57:59.254Z [grades-control-api] info: started server
+2020-06-09T16:58:00.859Z [grades-control-api] info: started server
+2020-06-09T16:58:26.904Z [grades-control-api] info: started server
+2020-06-09T16:58:41.123Z [grades-control-api] info: started server
+2020-06-09T16:59:03.919Z [grades-control-api] info: started server
+2020-06-09T16:59:28.239Z [grades-control-api] info: started server
+2020-06-09T17:00:31.962Z [grades-control-api] info: GET /grades
+2020-06-09T17:00:31.963Z [grades-control-api] info: GET /grades - reading database started
+2020-06-09T17:00:31.966Z [grades-control-api] info: GET /grades - reading database finished
+2020-06-09T17:00:31.966Z [grades-control-api] info: GET /grades successful
+2020-06-09T17:01:27.910Z [grades-control-api] info: started server
+2020-06-09T17:02:42.095Z [grades-control-api] info: started server
+2020-06-09T17:03:26.717Z [grades-control-api] info: started server
+2020-06-09T17:03:45.975Z [grades-control-api] info: started server
+2020-06-09T17:04:01.556Z [grades-control-api] info: PUT /grades
+2020-06-09T17:04:01.556Z [grades-control-api] info: PUT /grades - Payload { id: 49, student: Smith Júnior, subject: 04 - MongoD, type: Desafio, value: 10 }
+2020-06-09T17:04:01.557Z [grades-control-api] info: PUT /grades - reading database started
+2020-06-09T17:04:01.560Z [grades-control-api] info: PUT /grades - reading database finished
+2020-06-09T17:04:01.560Z [grades-control-api] info: PUT /grades - persistence started
+2020-06-09T17:04:01.562Z [grades-control-api] info: PUT /grades - persistence finished
+2020-06-09T17:04:01.562Z [grades-control-api] info: PUT /grades successful
+2020-06-09T17:04:04.840Z [grades-control-api] info: GET /grades
+2020-06-09T17:04:04.840Z [grades-control-api] info: GET /grades - reading database started
+2020-06-09T17:04:04.841Z [grades-control-api] info: GET /grades - reading database finished
+2020-06-09T17:04:04.841Z [grades-control-api] info: GET /grades successful
+2020-06-09T17:04:32.748Z [grades-control-api] info: started server
+2020-06-09T17:05:24.387Z [grades-control-api] info: started server
+2020-06-09T17:06:11.697Z [grades-control-api] info: started server
+2020-06-09T17:06:34.359Z [grades-control-api] info: started server
+2020-06-09T17:07:19.176Z [grades-control-api] info: started server
+2020-06-09T17:09:13.434Z [grades-control-api] info: started server
+2020-06-09T17:09:25.357Z [grades-control-api] info: started server
+2020-06-09T17:09:46.522Z [grades-control-api] info: DELETE /grades/49
+2020-06-09T17:09:46.522Z [grades-control-api] info: DELETE /grades/49 - reading database started
+2020-06-09T17:09:46.524Z [grades-control-api] info: DELETE /grades/49 - reading database finished
+2020-06-09T17:09:46.524Z [grades-control-api] info: DELETE /grades/49 - persistence started
+2020-06-09T17:09:46.525Z [grades-control-api] info: DELETE /grades/49 - persistence finished
+2020-06-09T17:09:46.525Z [grades-control-api] info: DELETE /grades/49 successful
+2020-06-09T17:09:49.878Z [grades-control-api] info: GET /grades
+2020-06-09T17:09:49.878Z [grades-control-api] info: GET /grades - reading database started
+2020-06-09T17:09:49.879Z [grades-control-api] info: GET /grades - reading database finished
+2020-06-09T17:09:49.879Z [grades-control-api] info: GET /grades successful
+2020-06-09T17:10:07.460Z [grades-control-api] info: started server
+2020-06-09T17:10:58.107Z [grades-control-api] info: started server
+2020-06-09T17:11:02.816Z [grades-control-api] info: DELETE /grades/49
+2020-06-09T17:11:02.817Z [grades-control-api] info: DELETE /grades/49 - reading database started
+2020-06-09T17:11:02.819Z [grades-control-api] info: DELETE /grades/49 - reading database finished
+2020-06-09T17:11:02.819Z [grades-control-api] info: DELETE /grades/49 - persistence started
+2020-06-09T17:11:02.820Z [grades-control-api] info: DELETE /grades/49 - persistence finished
+2020-06-09T17:11:02.821Z [grades-control-api] info: DELETE /grades/49 successful
+2020-06-09T17:11:08.860Z [grades-control-api] info: GET /grades
+2020-06-09T17:11:08.860Z [grades-control-api] info: GET /grades - reading database started
+2020-06-09T17:11:08.861Z [grades-control-api] info: GET /grades - reading database finished
+2020-06-09T17:11:08.861Z [grades-control-api] info: GET /grades successful
+2020-06-09T17:11:15.225Z [grades-control-api] info: POST /grades - Payload { student: Smith Júnior, subject: 04 - MongoDB, type: Desafio, value: 10 }
+2020-06-09T17:11:15.226Z [grades-control-api] info: POST /grades - reading database started
+2020-06-09T17:11:15.226Z [grades-control-api] info: POST /grades - reading database finished
+2020-06-09T17:11:15.227Z [grades-control-api] info: POST /grades - persistence started
+2020-06-09T17:11:15.228Z [grades-control-api] info: POST /grades - persistence finished
+2020-06-09T17:11:15.229Z [grades-control-api] info: POST /grades successful
+2020-06-09T17:12:24.695Z [grades-control-api] info: started server
+2020-06-09T17:12:35.970Z [grades-control-api] info: started server
+2020-06-09T17:12:51.147Z [grades-control-api] info: started server
+2020-06-09T17:13:03.356Z [grades-control-api] info: GET /grades/49
+2020-06-09T17:13:03.356Z [grades-control-api] info: GET /grades/49 - reading database started
+2020-06-09T17:13:03.357Z [grades-control-api] info: GET /grades/49 - reading database finished
+2020-06-09T17:13:03.358Z [grades-control-api] info: GET /grades/49 successful
+2020-06-09T17:13:08.036Z [grades-control-api] info: GET /grades/50
+2020-06-09T17:13:08.037Z [grades-control-api] info: GET /grades/50 - reading database started
+2020-06-09T17:13:08.038Z [grades-control-api] info: GET /grades/50 - reading database finished
+2020-06-09T17:13:08.038Z [grades-control-api] info: GET /grades/50 successful
+2020-06-09T17:14:02.127Z [grades-control-api] info: started server
+2020-06-09T17:15:18.697Z [grades-control-api] info: started server
+2020-06-09T17:15:22.270Z [grades-control-api] info: GET /grades/49
+2020-06-09T17:15:22.270Z [grades-control-api] info: GET /grades/49 - reading database started
+2020-06-09T17:15:22.272Z [grades-control-api] info: GET /grades/49 - reading database finished
+2020-06-09T17:15:22.272Z [grades-control-api] error: Grade not found
+2020-06-09T17:15:29.576Z [grades-control-api] info: started server
+2020-06-09T17:15:31.635Z [grades-control-api] info: started server
+2020-06-09T17:20:45.793Z [grades-control-api] info: started server
+2020-06-09T17:21:41.581Z [grades-control-api] info: started server
+2020-06-09T17:22:29.978Z [grades-control-api] info: started server
+2020-06-09T17:22:33.575Z [grades-control-api] info: started server
+2020-06-09T17:22:59.422Z [grades-control-api] info: started server
+2020-06-09T17:23:04.313Z [grades-control-api] info: started server
+2020-06-09T17:23:07.095Z [grades-control-api] info: started server
+2020-06-09T17:24:27.358Z [grades-control-api] info: started server
+2020-06-09T17:24:46.151Z [grades-control-api] info: started server
+2020-06-09T17:24:49.676Z [grades-control-api] info: started server
+2020-06-09T17:25:23.875Z [grades-control-api] info: POST /grades/notes-by-student-and-subject
+2020-06-09T17:25:23.876Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - Payload { student: Smith Júnior, subject: 04 - MongoDB
+2020-06-09T17:25:23.876Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - reading database started
+2020-06-09T17:25:23.877Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - reading database finished
+2020-06-09T17:25:23.878Z [grades-control-api] info: PUT /grades/notes-by-student-and-subject successful
+2020-06-09T17:25:34.919Z [grades-control-api] info: POST /grades - Payload { student: Smith Júnior, subject: 04 - MongoDB, type: Desafio, value: 15 }
+2020-06-09T17:25:34.919Z [grades-control-api] info: POST /grades - reading database started
+2020-06-09T17:25:34.921Z [grades-control-api] info: POST /grades - reading database finished
+2020-06-09T17:25:34.921Z [grades-control-api] info: POST /grades - persistence started
+2020-06-09T17:25:34.925Z [grades-control-api] info: POST /grades - persistence finished
+2020-06-09T17:25:34.925Z [grades-control-api] info: POST /grades successful
+2020-06-09T17:25:37.491Z [grades-control-api] info: POST /grades/notes-by-student-and-subject
+2020-06-09T17:25:37.491Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - Payload { student: Smith Júnior, subject: 04 - MongoDB
+2020-06-09T17:25:37.491Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - reading database started
+2020-06-09T17:25:37.492Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - reading database finished
+2020-06-09T17:25:37.492Z [grades-control-api] info: PUT /grades/notes-by-student-and-subject successful
+2020-06-09T17:26:24.328Z [grades-control-api] info: started server
+2020-06-09T17:26:32.333Z [grades-control-api] info: started server
+2020-06-09T17:26:33.913Z [grades-control-api] info: POST /grades/notes-by-student-and-subject
+2020-06-09T17:26:33.913Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - Payload { student: Smith Júnior, subject: 04 - MongoDB
+2020-06-09T17:26:33.913Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - reading database started
+2020-06-09T17:26:33.916Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - reading database finished
+2020-06-09T17:26:33.916Z [grades-control-api] info: PUT /grades/notes-by-student-and-subject successful
+2020-06-09T17:26:45.986Z [grades-control-api] info: started server
+2020-06-09T17:27:00.808Z [grades-control-api] info: started server
+2020-06-09T17:27:03.014Z [grades-control-api] info: started server
+2020-06-09T17:29:37.934Z [grades-control-api] info: started server
+2020-06-09T17:30:33.918Z [grades-control-api] info: started server
+2020-06-09T17:31:33.803Z [grades-control-api] info: POST /grades/notes-by-student-and-subject
+2020-06-09T17:31:33.803Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - Payload { student: undefined, subject: 04 - MongoDB
+2020-06-09T17:31:33.803Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - reading database started
+2020-06-09T17:31:33.806Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - reading database finished
+2020-06-09T17:31:33.807Z [grades-control-api] info: POST /grades/notes-by-student-and-subject successful
+2020-06-09T17:32:04.047Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject
+2020-06-09T17:32:04.047Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - Payload { type: Desafio, subject: 04 - MongoDB
+2020-06-09T17:32:04.047Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database started
+2020-06-09T17:32:04.049Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database finished
+2020-06-09T17:32:04.049Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject successful
+2020-06-09T17:33:01.903Z [grades-control-api] info: started server
+2020-06-09T17:33:22.023Z [grades-control-api] info: started server
+2020-06-09T17:33:22.340Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject
+2020-06-09T17:33:22.340Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - Payload { type: Desafio, subject: 04 - MongoDB
+2020-06-09T17:33:22.340Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database started
+2020-06-09T17:33:22.344Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database finished
+2020-06-09T17:33:22.345Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total grades founded 6
+2020-06-09T17:33:22.345Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total notes reduced 171
+2020-06-09T17:33:22.346Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject successful
+2020-06-09T17:35:46.203Z [grades-control-api] info: started server
+2020-06-09T17:35:53.713Z [grades-control-api] info: started server
+2020-06-09T17:36:17.540Z [grades-control-api] info: started server
+2020-06-09T17:36:24.065Z [grades-control-api] info: started server
+2020-06-09T17:36:48.643Z [grades-control-api] info: POST /grades/top3
+2020-06-09T17:36:48.643Z [grades-control-api] info: POST /grades/top3 - Payload { type: Desafio, subject: 04 - MongoDB
+2020-06-09T17:36:48.643Z [grades-control-api] info: POST /grades/top3 - reading database started
+2020-06-09T17:36:48.646Z [grades-control-api] info: POST /grades/top3 - reading database finished
+2020-06-09T17:36:48.646Z [grades-control-api] info: POST /grades/top3 successful
+2020-06-09T17:38:37.584Z [grades-control-api] info: started server
+2020-06-09T17:39:17.153Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject
+2020-06-09T17:39:17.153Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - Payload { type: Fórum, subject: 01 - JavaScript
+2020-06-09T17:39:17.153Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database started
+2020-06-09T17:39:17.156Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database finished
+2020-06-09T17:39:17.156Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total grades founded 4
+2020-06-09T17:39:17.156Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total notes reduced 43
+2020-06-09T17:39:17.156Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject successful
+2020-06-09T17:39:51.568Z [grades-control-api] info: POST /grades/top3
+2020-06-09T17:39:51.568Z [grades-control-api] info: POST /grades/top3 - Payload { type: Trabalho Prático, subject: 03 - React
+2020-06-09T17:39:51.568Z [grades-control-api] info: POST /grades/top3 - reading database started
+2020-06-09T17:39:51.569Z [grades-control-api] info: POST /grades/top3 - reading database finished
+2020-06-09T17:39:51.570Z [grades-control-api] info: POST /grades/top3 successful
+2020-06-09T17:40:42.517Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject
+2020-06-09T17:40:42.517Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - Payload { type: Desafio, subject: 02 - Node
+2020-06-09T17:40:42.518Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database started
+2020-06-09T17:40:42.518Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database finished
+2020-06-09T17:40:42.518Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total grades founded 4
+2020-06-09T17:40:42.518Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total notes reduced 108
+2020-06-09T17:40:42.519Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject successful
+2020-06-09T17:42:43.921Z [grades-control-api] info: started server
+2020-06-09T17:42:47.894Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject
+2020-06-09T17:42:47.895Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - Payload { type: Desafio, subject: 02 - Node
+2020-06-09T17:42:47.895Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database started
+2020-06-09T17:42:47.897Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database finished
+2020-06-09T17:42:47.898Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total grades founded 4
+2020-06-09T17:42:47.898Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total notes reduced 108
+2020-06-09T17:42:47.898Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject successful
+2020-06-09T17:42:48.748Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject
+2020-06-09T17:42:48.748Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - Payload { type: Desafio, subject: 02 - Node
+2020-06-09T17:42:48.748Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database started
+2020-06-09T17:42:48.749Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database finished
+2020-06-09T17:42:48.749Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total grades founded 4
+2020-06-09T17:42:48.749Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total notes reduced 108
+2020-06-09T17:42:48.749Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject successful
+2020-06-09T17:43:35.129Z [grades-control-api] info: POST /grades/notes-by-student-and-subject
+2020-06-09T17:43:35.130Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - Payload { student: Loiane Grone, subject: 02 - Node
+2020-06-09T17:43:35.130Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - reading database started
+2020-06-09T17:43:35.139Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - reading database finished
+2020-06-09T17:43:35.139Z [grades-control-api] info: POST /grades/notes-by-student-and-subject successful
+2020-06-09T17:43:51.607Z [grades-control-api] info: POST /grades/notes-by-student-and-subject
+2020-06-09T17:43:51.607Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - Payload { student: Loiane Groner, subject: 02 - Node
+2020-06-09T17:43:51.607Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - reading database started
+2020-06-09T17:43:51.610Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - reading database finished
+2020-06-09T17:43:51.610Z [grades-control-api] info: POST /grades/notes-by-student-and-subject successful
+2020-06-09T17:44:33.370Z [grades-control-api] info: POST /grades - Payload { student: Roberto Achar, subject: 03 - React, type: Fórum, value: 10 }
+2020-06-09T17:44:33.370Z [grades-control-api] info: POST /grades - reading database started
+2020-06-09T17:44:33.370Z [grades-control-api] info: POST /grades - reading database finished
+2020-06-09T17:44:33.371Z [grades-control-api] info: POST /grades - persistence started
+2020-06-09T17:44:33.374Z [grades-control-api] info: POST /grades - persistence finished
+2020-06-09T17:44:33.374Z [grades-control-api] info: POST /grades successful
+2020-06-09T17:44:46.122Z [grades-control-api] info: POST /grades/notes-by-student-and-subject
+2020-06-09T17:44:46.123Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - Payload { student: Roberto Achar, subject: 03 - React
+2020-06-09T17:44:46.123Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - reading database started
+2020-06-09T17:44:46.124Z [grades-control-api] info: POST /grades/notes-by-student-and-subject - reading database finished
+2020-06-09T17:44:46.124Z [grades-control-api] info: POST /grades/notes-by-student-and-subject successful
+2020-06-09T17:45:07.967Z [grades-control-api] info: GET /grades/33
+2020-06-09T17:45:07.967Z [grades-control-api] info: GET /grades/33 - reading database started
+2020-06-09T17:45:07.969Z [grades-control-api] info: GET /grades/33 - reading database finished
+2020-06-09T17:45:07.970Z [grades-control-api] info: GET /grades/33 successful
+2020-06-09T17:45:30.082Z [grades-control-api] info: PUT /grades
+2020-06-09T17:45:30.082Z [grades-control-api] info: PUT /grades - Payload { id: 33, student: Roberto Achar, subject: 01 - JavaScript, type: Desafio, value: 10 }
+2020-06-09T17:45:30.082Z [grades-control-api] info: PUT /grades - reading database started
+2020-06-09T17:45:30.082Z [grades-control-api] info: PUT /grades - reading database finished
+2020-06-09T17:45:30.083Z [grades-control-api] info: PUT /grades - persistence started
+2020-06-09T17:45:30.083Z [grades-control-api] info: PUT /grades - persistence finished
+2020-06-09T17:45:30.083Z [grades-control-api] info: PUT /grades successful
+2020-06-09T17:45:45.704Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject
+2020-06-09T17:45:45.705Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - Payload { type: Desafio, subject: 01 - JavaScript
+2020-06-09T17:45:45.705Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database started
+2020-06-09T17:45:45.705Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database finished
+2020-06-09T17:45:45.706Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total grades founded 4
+2020-06-09T17:45:45.706Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total notes reduced 47
+2020-06-09T17:45:45.706Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject successful
+2020-06-09T17:46:10.992Z [grades-control-api] info: PUT /grades
+2020-06-09T17:46:10.992Z [grades-control-api] info: PUT /grades - Payload { id: 33, student: Roberto Achar, subject: 01 - JavaScript, type: Desafio, value: 15 }
+2020-06-09T17:46:10.992Z [grades-control-api] info: PUT /grades - reading database started
+2020-06-09T17:46:10.992Z [grades-control-api] info: PUT /grades - reading database finished
+2020-06-09T17:46:10.993Z [grades-control-api] info: PUT /grades - persistence started
+2020-06-09T17:46:10.994Z [grades-control-api] info: PUT /grades - persistence finished
+2020-06-09T17:46:10.994Z [grades-control-api] info: PUT /grades successful
+2020-06-09T17:46:24.064Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject
+2020-06-09T17:46:24.064Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - Payload { type: Desafio, subject: 01 - JavaScript
+2020-06-09T17:46:24.064Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database started
+2020-06-09T17:46:24.065Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database finished
+2020-06-09T17:46:24.065Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total grades founded 4
+2020-06-09T17:46:24.065Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total notes reduced 52
+2020-06-09T17:46:24.065Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject successful
+2020-06-09T17:46:36.496Z [grades-control-api] info: DELETE /grades/32
+2020-06-09T17:46:36.496Z [grades-control-api] info: DELETE /grades/32 - reading database started
+2020-06-09T17:46:36.497Z [grades-control-api] info: DELETE /grades/32 - reading database finished
+2020-06-09T17:46:36.497Z [grades-control-api] info: DELETE /grades/32 - persistence started
+2020-06-09T17:46:36.497Z [grades-control-api] info: DELETE /grades/32 - persistence finished
+2020-06-09T17:46:36.498Z [grades-control-api] info: DELETE /grades/32 successful
+2020-06-09T17:46:57.799Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject
+2020-06-09T17:46:57.799Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - Payload { type: Trabalho Prático, subject: 04 - MongoDB
+2020-06-09T17:46:57.799Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database started
+2020-06-09T17:46:57.800Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database finished
+2020-06-09T17:46:57.800Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total grades founded 3
+2020-06-09T17:46:57.800Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total notes reduced 78
+2020-06-09T17:46:57.800Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject successful
+2020-06-09T17:47:10.866Z [grades-control-api] info: GET /grades/43
+2020-06-09T17:47:10.866Z [grades-control-api] info: GET /grades/43 - reading database started
+2020-06-09T17:47:10.867Z [grades-control-api] info: GET /grades/43 - reading database finished
+2020-06-09T17:47:10.867Z [grades-control-api] info: GET /grades/43 successful
+2020-06-09T17:49:24.808Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject
+2020-06-09T17:49:24.809Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - Payload { type: Desafio, subject: 02 - Node
+2020-06-09T17:49:24.809Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database started
+2020-06-09T17:49:24.811Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database finished
+2020-06-09T17:49:24.811Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total grades founded 4
+2020-06-09T17:49:24.811Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total notes reduced 108
+2020-06-09T17:49:24.811Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject successful
+2020-06-09T17:50:53.248Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject
+2020-06-09T17:50:53.248Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - Payload { type: Desafio, subject: 02 - Node
+2020-06-09T17:50:53.248Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database started
+2020-06-09T17:50:53.248Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database finished
+2020-06-09T17:50:53.249Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total grades founded 4
+2020-06-09T17:50:53.249Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total notes reduced 108
+2020-06-09T17:50:53.249Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject successful
+2020-06-09T17:50:53.966Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject
+2020-06-09T17:50:53.966Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - Payload { type: Desafio, subject: 02 - Node
+2020-06-09T17:50:53.966Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database started
+2020-06-09T17:50:53.967Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - reading database finished
+2020-06-09T17:50:53.967Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total grades founded 4
+2020-06-09T17:50:53.967Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject - total notes reduced 108
+2020-06-09T17:50:53.967Z [grades-control-api] info: POST /grades/grade-avg-by-type-and-subject successful
